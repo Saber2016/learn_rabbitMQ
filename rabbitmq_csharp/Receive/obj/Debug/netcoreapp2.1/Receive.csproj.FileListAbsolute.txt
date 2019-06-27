@@ -1,0 +1,11 @@
+/Users/qinyuanlong/rabbitmq_csharp/Receive/bin/Debug/netcoreapp2.1/Receive.deps.json
+/Users/qinyuanlong/rabbitmq_csharp/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.json
+/Users/qinyuanlong/rabbitmq_csharp/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.dev.json
+/Users/qinyuanlong/rabbitmq_csharp/Receive/bin/Debug/netcoreapp2.1/Receive.dll
+/Users/qinyuanlong/rabbitmq_csharp/Receive/bin/Debug/netcoreapp2.1/Receive.pdb
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.csprojAssemblyReference.cache
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.csproj.CoreCompileInputs.cache
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfoInputs.cache
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfo.cs
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.dll
+/Users/qinyuanlong/rabbitmq_csharp/Receive/obj/Debug/netcoreapp2.1/Receive.pdb
